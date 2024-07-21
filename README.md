@@ -70,7 +70,7 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 
 ## **📜 License**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammadadilnaeem/Basic-ChatGPT-like-Clone-Using-Streamlit/blob/main/LICENSE) file for more details.
 
 ## **📞 Contact**
 
