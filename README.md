@@ -74,6 +74,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## **📞 Contact**
 
-For any questions or suggestions, feel free to open an issue or contact me at [madilnaeem0@example.com](mailto:madilnaeem0@example.com).
+For any questions or suggestions, feel free to open an issue or contact me at [madilnaeem0@gmail.com](mailto:madilnaeem0@gmail.com).
 
 ---
